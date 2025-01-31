@@ -41,10 +41,14 @@ cd SIH_AICTE_App
 ```
 
 # Install Flutter dependencies
-```flutter pub get```
+```sh
+flutter pub get
+```
 
 # Run the app
-```flutter run```
+```sh
+flutter run
+```
 
 ## 📽️ Demo Video  
 (https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1MXNZRrXiyGPLwPMfxtn4RzpWH4i0k4Oi/view?usp=drive_link)
