@@ -1,16 +1,50 @@
 # final_app
+# 📱 SIH AICTE App
 
-A new Flutter project.
+## 🌟 Overview
+SIH AICTE App is a cross-platform mobile application built using Flutter, designed to provide users with an interactive and visually appealing experience while exploring AICTE statistical data. It ensures smooth navigation, adaptive UI, and interactive graphical representation of data.
 
-## Getting Started
+## 🔥 Features
+✅ **Attractive UI** - Vibrant and user-friendly interface.  
+✅ **Cross-Platform Compatibility** - Works on both Android and iOS.  
+✅ **Adaptive & Responsive Design** - Native adaptation to user devices.  
+✅ **Interactive Graphical Representation** - Data visualization using charts.  
+✅ **Single Page Design** - Faster access with minimal navigation.  
+✅ **Dark & Light Mode** - Adaptive themes with system sync.  
+✅ **Seamless User Flow** - Simplified navigation for an optimal experience.  
 
-This project is a starting point for a Flutter application.
+## 📌 Use Cases
+- Accessible to all Android and iOS users.
+- Beneficial for individuals exploring AICTE statistical data.
+- Enhances user experience through an intuitive design on a large scale.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
+- **Flutter** - Cross-platform mobile framework.
+- **Dart** - Programming language for Flutter.
+- **Android Studio/Xcode** - Development environments.
+- **VS Code** - Lightweight development editor.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📲 User Flow
+1. Fill the form fields to filter results or leave them default.
+2. Press the **Submit** button.
+3. View the rendered results with interactive visuals.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Dependencies
+- **Internet Connection** - Required to fetch statistical data from the AICTE database.
+- **AICTE Database Access** - Needed to retrieve and display data as per user queries.
+
+## 🎯 Installation & Setup
+```sh
+# Clone the repository
+git clone https://github.com/guptasamarth200/SIH_AICTE_App.git
+cd SIH_AICTE_App
+```
+
+# Install Flutter dependencies
+```flutter pub get```
+
+# Run the app
+```flutter run```
+
+## 📽️ Demo Video  
+(https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1MXNZRrXiyGPLwPMfxtn4RzpWH4i0k4Oi/view?usp=drive_link)
