@@ -50,10 +50,7 @@ flutter pub get
 flutter run
 ```
 🖼 Screenshots
-![WhatsApp Image 2025-01-31 at 14 37 42_c05dd387](https://github.com/user-attachments/assets/dc75f5bc-344e-40ba-b3e0-5d2d2d7c8e86)
-![WhatsApp Image 2025-01-31 at 14 37 42_425d198f](https://github.com/user-attachments/assets/8301c3a4-c583-4a4d-ab79-c799e42868c0)
-![WhatsApp Image 2025-01-31 at 14 37 43_ee57f9ae](https://github.com/user-attachments/assets/081b3520-f54e-45f1-9548-ed54d10c1a85)
-![WhatsApp Image 2025-01-31 at 14 37 43_4e46c11c](https://github.com/user-attachments/assets/60e3b701-6e25-4bbb-a120-8a7595308989)
+![{3CB2449F-29DF-4B65-94A5-1764845A1B58}](https://github.com/user-attachments/assets/a6a1823c-108b-43cb-a83a-e04fd8e65f84)
 
 
 
