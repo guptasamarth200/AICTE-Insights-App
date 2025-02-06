@@ -1,7 +1,7 @@
 # AICTE Insights App
 
 ## 🌟 Overview
-SIH AICTE App is a cross-platform mobile application built using Flutter, designed to provide users with an interactive and visually appealing experience while exploring AICTE statistical data. It ensures smooth navigation, adaptive UI, and interactive graphical representation of data.
+AICTE Insights App is a cross-platform mobile application built using Flutter, designed to provide users with an interactive and visually appealing experience while exploring AICTE statistical data. It ensures smooth navigation, adaptive UI, and interactive graphical representation of data.
 
 ## 🔥 Features
 ✅ **Attractive UI** - Vibrant and user-friendly interface.  
