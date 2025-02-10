@@ -54,4 +54,4 @@ flutter run
 
 
 ## 📽️ Demo Video  
-(https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1MXNZRrXiyGPLwPMfxtn4RzpWH4i0k4Oi/view?usp=drive_link)
+(https://drive.google.com/file/d/1MXNZRrXiyGPLwPMfxtn4RzpWH4i0k4Oi/view?usp=sharing)
